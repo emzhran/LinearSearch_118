@@ -48,5 +48,5 @@ void LinearSearch()
 				break;
 			}
 		}
-	}
+	} 
 }
